@@ -307,11 +307,6 @@ kubectl delete pod mysql-0
 
 ---
 
-
-
-# Now we can deploy the same application using ARGOCD "GitOps" approach. Which i am going to tell you in next phase.
-
-
 ### 🔹 WordPress storage proof
 
 * Upload image / theme
@@ -319,3 +314,7 @@ kubectl delete pod mysql-0
 * Image/theme still exists
 
 ---
+
+. Now we can deploy the same application using ARGOCD "GitOps" approach. Which i am going to tell you in next phase.
+. Now we are going to deploy same application using ArgoCD-Deployment that is a GitOps Continious Deployment of the application.
+Go to this link for this: 
