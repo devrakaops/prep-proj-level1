@@ -74,3 +74,6 @@ By completing this project, you should be able to:
 
 This project is designed to **teach mindset first, tools second**—exactly how real DevOps engineers work.
 ---
+
+The detailed project description is available in a separate file below: 
+https://github.com/devrakaops/projectwala/edit/main/Basic-Level/Project-2/PROJECT-WALKTHROUGH.md
