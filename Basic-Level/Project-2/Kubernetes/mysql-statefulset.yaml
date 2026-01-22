@@ -2,6 +2,7 @@ apiVersion: apps/v1
 kind: StatefulSet
 metadata:
   name: mysql
+  namespace: default
 spec:
   serviceName: mysql
   replicas: 1
@@ -32,6 +33,7 @@ spec:
   volumeClaimTemplates:
   - metadata:
       name: mysql-storage
+      namespace: default
     spec:
       accessModes:
         - ReadWriteOnce
