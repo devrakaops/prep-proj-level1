@@ -87,3 +87,11 @@ Note:
 > <img width="1366" height="551" alt="image" src="https://github.com/user-attachments/assets/5beb0e96-336f-4e2d-a423-8b3640912df1" />
 > <img width="1366" height="648" alt="image" src="https://github.com/user-attachments/assets/1c293583-8e98-4e82-ae81-342153b3fc14" />
 
+
+
+Note:
+ - In kubernetes deployment of LAMP application, i am sharing the details in dedicated path on this same GitHub Repository.
+ Link: https://github.com/devrakaops/projectwala/tree/main/Basic-Level/Project-2/Kubernetes location
+ - Why i am doing this becase of clear understanding and later GitOps integration. So click on the above link and learn how to deploy app on kubernetes and argocd.
+
+ Thank you
